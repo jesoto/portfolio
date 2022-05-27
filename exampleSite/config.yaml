@@ -96,11 +96,11 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/1KW6FUHS3icLJxjvc7wNeWYGlKLkO8Ig8/view?usp=sharing"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/jesoto
         - icon: fab fa-twitter
           url: https://example.com
       customIcons:

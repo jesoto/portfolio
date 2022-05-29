@@ -225,54 +225,51 @@ params:
         featured:
           name: Repo
           link: https://github.com/jesoto/Sentiment_and_news-Peru/tree/main/thesis
-      
         links:
           - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            url: mailto:jesus.soto@pucp.edu.pe
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/jesoto/Sentiment_and_news-Peru/tree/main/thesis
+          
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: Credit Card churn predition
+        content: In order to retain customers, we seek to predict whether customers will leave the service. For this purpose we will use classification algorithms such as Logistic Regression and Random forest. In the first part we did a quick introduction to the variables, data preprocessing, then a Exploratory data analysis and finally the results of the model performance. This is a co working project with my friend Franco Cáceres
+        image: /images/projects/churn.jpg
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+          name: Repo
+          link: https://github.com/jesoto/Churn-Prediction-Tarjetas-de-credito/blob/main/Proyecto_Tarjeta_de_cr%C3%A9dito.ipynb
         # badges:
         #   - "Django"
         #   - "Bootstrap"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/jesoto/Churn-Prediction-Tarjetas-de-credito/blob/main/Proyecto_Tarjeta_de_cr%C3%A9dito.ipynb
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+
+      - title: Machine Learning and Causal Inference
+        content: Here you can find a series of Jupyter Notebooks, my colleages (Stefi Riega and Franco Caceres) and I worked on for our class of Applied Statistics.
+        image: /images/projects/coding.jpg
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Repo
+          link: https://github.com/stephyriega/ML_CI
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/stephyriega/ML_CI
 
   #Contact
   contact:
     enable: true
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: jesus.soto@pucp.edu.pe
     btnName: Mail me
 
   footer:
     # recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/jesoto
+      linkedin: https://www.linkedin.com/in/jessoto/
+

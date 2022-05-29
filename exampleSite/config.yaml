@@ -92,7 +92,7 @@ params:
     title: "Jesus Soto."
     subtitle: ""
     content: "A passionate data analyst and economist. I analyse data to get insights in order to take better decisions"
-    image: 
+    image: /images/perfil.jpg
     button:
       enable: true
       name: "Resume"

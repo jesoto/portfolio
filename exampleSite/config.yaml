@@ -102,9 +102,9 @@ params:
         - icon: fab fa-github
           url: https://github.com/jesoto
         - icon: fab fa-linkedin
-          url: https://example.com
+          url: https://www.linkedin.com/in/jessoto/
       customIcons:
-        - icon: /fav.png
+        - icon: 
           url: "https://example.com"
 
   # About

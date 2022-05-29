@@ -156,7 +156,7 @@ params:
         info:
           enable: false
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
           -	Using Python to develop unsupervised models for customer segmentation in personal banking on more than 10M data
@@ -188,55 +188,32 @@ params:
     enable: true
     # index: true
     items:
-      - title: "Master of Business Administration"
+      - title: "B. Economics - Social Sciences"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "Pontifical Catholic University of Peru"
+          url: "https://www.linkedin.com/school/pucp/posts/?feedView=all"
+        date: "2017 - 2022"
+  
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+            - Join Sedipro PUCP to help other organizations to implement the project management framework
+          
+          Relevant courses: Machine Learning and Causal Inference, Econometric, Inference Statistics
+      
 
   # Achievements
   achievements:
     enable: true
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
+      - title: Big Data Certified Associate (BDCA)
+        content: International workshop in the Bid Data Framework.
+        url: "https://drive.google.com/file/d/1X3RXeXSrel8xloeXrXb9ddq9a93PzuAb/view"
+      - title: Machine learning Explainability Course
+        content: Advance techniques to extract insights from machine learning models.
+        url: "https://drive.google.com/file/d/1MzT4RZyM1pCZqBXidroCGn9-3UocD2ad/view"
+      - title: Innovation Challenge participation
+        content: Developed a product to hel to activate tourism after pandemic.
+        url: "https://drive.google.com/file/d/1Zxuc749TeMwGLuf79wmcPfozh2XcWKrd/view"
       - title: Microsoft Imagine Runner
         content: We are developed a product which can help others.
       - title: Google Summer of Code

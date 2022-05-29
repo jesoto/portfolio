@@ -113,9 +113,10 @@ params:
     title: "About Me"
     image: "/images/foto.jpeg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      🙋🏻‍♂️ Hello! I am Jesús, an economics student at the Faculty of Social Sciences of the Pontifical Catholic University of Peru. I am a proactive, persevering person, with analytical skills and motivated by continuous learning. I am passionate about Data Science and anything related to technology. Currently, I’m working as a Portfolio Monitoring Intern at [Interbank](https://www.linkedin.com/company/interbank/posts/?feedView=all) where I’ve learning a lot of data management.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+🎯 My goal is to develop my professional career in the data science field, being part of a company that allows me to apply everything I have learned so far and continue to grow both personally and professionally to achieve the best results.
+      
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"

@@ -214,26 +214,21 @@ params:
       - title: Innovation Challenge participation
         content: Developed a product to hel to activate tourism after pandemic.
         url: "https://drive.google.com/file/d/1Zxuc749TeMwGLuf79wmcPfozh2XcWKrd/view"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
-
+      
   # projects
   projects:
     enable: true
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Sentiment analysis of the news in the Peru: The effect on the exhange rate
+        content: In base of the headlines of the newspaper Gestion, we create a sentiment index using NLP libraries as NLTK to interpret the lenguage. We plan to use this index in a var model to know teh exact impact of the sentiment index and the effect in the exhange rate.
+        image: /images/projects/dolar.jpg
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
+          name: Repo
+          link: https://github.com/jesoto/Sentiment_and_news-Peru/tree/main/thesis
+          badges:
+            - "Python"
+            - "Web scrapping"
+            - "NLP"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f

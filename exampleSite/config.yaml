@@ -225,10 +225,7 @@ params:
         featured:
           name: Repo
           link: https://github.com/jesoto/Sentiment_and_news-Peru/tree/main/thesis
-        badges:
-            - "Python"
-            - "Web scrapping"
-            - "NLP"
+      
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f

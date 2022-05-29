@@ -266,7 +266,7 @@ params:
     btnName: Mail me
 
   footer:
-    # recentPosts: false
+    recentPosts: false
     socialNetworks:
       github: https://github.com/jesoto
       linkedin: https://www.linkedin.com/in/jessoto/

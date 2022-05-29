@@ -219,7 +219,7 @@ params:
   projects:
     enable: true
     items:
-      - title: Sentiment analysis of the news in the Peru: The effect on the exhange rate
+      - title: "Sentiment analysis of the news in the Peru: The effect on the exhange rate"
         content: In base of the headlines of the newspaper Gestion, we create a sentiment index using NLP libraries as NLTK to interpret the lenguage. We plan to use this index in a var model to know teh exact impact of the sentiment index and the effect in the exhange rate.
         image: /images/projects/dolar.jpg
         featured:
